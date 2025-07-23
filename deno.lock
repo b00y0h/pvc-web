@@ -1,0 +1,58 @@
+{
+  "version": "3",
+  "remote": {
+    "https://edge.netlify.com/": "fd941d61d88673d5f28aab283fb86fcc50f08a3bc80ee5470498fcfa88c65cfb",
+    "https://edge.netlify.com/bootstrap/config.ts": "6a2ce0e544e15e8f8883a5c18da5948e37fd0f2619f68cb31f3af53c51817025",
+    "https://edge.netlify.com/bootstrap/context.ts": "c6e9de479234f3ac500d2fc1544dadf1925e335d0d5551b1a71b7ce14423a683",
+    "https://edge.netlify.com/bootstrap/cookie.ts": "8b0baae708989ca183c6f3b4ab3d029e6abcbc2e43f93edeb0ff447b3bbc3a05",
+    "https://edge.netlify.com/bootstrap/edge_function.ts": "b8253e86aa83c67341f5cfedeba5049d77fbf84dcab7eceff7566b7728ae9b39",
+    "https://edge.netlify.com/bootstrap/globals/types.ts": "eaa6148ded3121d8dee62dd91c86e7fe76601df0f3ca8d7962243a30f4c8935f"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@auth/drizzle-adapter@^1.1.0",
+        "npm:@payloadcms/db-mongodb@^3.48.0",
+        "npm:@payloadcms/next@^3.48.0",
+        "npm:@payloadcms/payload-cloud@^3.48.0",
+        "npm:@payloadcms/richtext-lexical@^3.48.0",
+        "npm:@radix-ui/react-dialog@^1.1.14",
+        "npm:@radix-ui/react-label@^2.1.7",
+        "npm:@radix-ui/react-select@^2.2.5",
+        "npm:@radix-ui/react-slot@^1.2.3",
+        "npm:@t3-oss/env-nextjs@^0.10.1",
+        "npm:@types/eslint@^8.56.10",
+        "npm:@types/node@^20.14.10",
+        "npm:@types/react-dom@^18.3.0",
+        "npm:@types/react@^18.3.3",
+        "npm:@typescript-eslint/eslint-plugin@^7.1.1",
+        "npm:@typescript-eslint/parser@^7.1.1",
+        "npm:class-variance-authority@^0.7.1",
+        "npm:clsx@^2.1.1",
+        "npm:drizzle-kit@^0.21.4",
+        "npm:drizzle-orm@^0.30.10",
+        "npm:eslint-config-next@^14.2.4",
+        "npm:eslint-plugin-drizzle@^0.2.3",
+        "npm:eslint@^8.57.0",
+        "npm:geist@^1.3.0",
+        "npm:graphql@^16.11.0",
+        "npm:lucide-react@^0.525.0",
+        "npm:next-auth@^4.24.7",
+        "npm:next@^15.4.1",
+        "npm:payload@^3.48.0",
+        "npm:postcss@^8.4.39",
+        "npm:postgres@^3.4.4",
+        "npm:prettier-plugin-tailwindcss@^0.6.5",
+        "npm:prettier@^3.3.2",
+        "npm:react-dom@^18.3.1",
+        "npm:react@^18.3.1",
+        "npm:sharp@^0.34.3",
+        "npm:tailwind-merge@^3.3.1",
+        "npm:tailwindcss-animate@^1.0.7",
+        "npm:tailwindcss@^3.4.3",
+        "npm:typescript@^5.5.3",
+        "npm:zod@^3.23.3"
+      ]
+    }
+  }
+}
