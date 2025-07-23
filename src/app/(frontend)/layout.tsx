@@ -10,7 +10,7 @@ import { Footer } from "~/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Patriot Volleyball Club",
+  title: "Patriot Volleyball Clubs | Home",
   description:
     "Premier travel volleyball club in Central Virginia developing champions on and off the court",
 };
